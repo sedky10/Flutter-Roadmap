@@ -72,7 +72,7 @@ The main goal for this committee is to prepare committee members for being able 
 * [Week 14: SQLite W01](assets/weeks/intermediate/week14.md)
 * [Week 15: SQLite W02](assets/weeks/intermediate/week15.md)
 * [Week 16: Async Dart & API (using http package)](assets/weeks/intermediate/week16.md)
-* [Week 17: Async Dart & API (using http package)](assets/weeks/intermediate/week17.md)
+* [Week 17: State Managment with Provider](assets/weeks/intermediate/week17.md)
 
 ### Final Project: Intermediate Level
 > [First Project (Individuals)](./assets/weeks/intermediate/Intermediate%20Projects%20-%20First%20Project%20(Individuals).md)
