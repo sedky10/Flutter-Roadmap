@@ -1,18 +1,24 @@
-# Week 9: Navigation & Forms
+# Week 9: ListView, GridView, & Dialogs
 
 ## Content:
 
-- Navigation:
+- ListView & GridView(50:59):
     
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrdSez8heDG7Qi3Blh_7fRo1](https://youtube.com/playlist?list=PL3aG1K3LWCrdSez8heDG7Qi3Blh_7fRo1)
+    [https://www.youtube.com/playlist?list=PL93xoMrxRJItdRumqolHX0UT-LHK8_39N](https://www.youtube.com/playlist?list=PL93xoMrxRJItdRumqolHX0UT-LHK8_39N)
     
-- Forms & UI:
+- Dialogs:
     
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrf5kwgIMjoZAlUpowIHk8jW](https://youtube.com/playlist?list=PL3aG1K3LWCrf5kwgIMjoZAlUpowIHk8jW)
+    [https://youtube.com/playlist?list=PL3aG1K3LWCrfZoLFvPcVUEvAqPB3U9CBm](https://youtube.com/playlist?list=PL3aG1K3LWCrfZoLFvPcVUEvAqPB3U9CBm)
     
 
 ## Tasks:
 
-- In this week, we are going to create a BMI calculator! Please, see the following gif and understand the app’s screens, different components and its main functionality:
+Please, create the following screens using the provided assets for each one:
+
+- Task 1:
     
-    [https://drive.google.com/drive/folders/1MDhhUWTgU1fYNUT8dcTLE42JXrtrV7Ea?usp=sharing](https://drive.google.com/drive/folders/1MDhhUWTgU1fYNUT8dcTLE42JXrtrV7Ea?usp=sharing)
+    [https://drive.google.com/drive/folders/1JiCYdL7_iBDEcWBv1AvNXcXTCVHzuKb4?usp=sharing](https://drive.google.com/drive/folders/1JiCYdL7_iBDEcWBv1AvNXcXTCVHzuKb4?usp=sharing)
+    
+- Task 2:
+    
+    [https://drive.google.com/drive/folders/1-97hxUIWpp49494IwiaEIoYsNaHfCTmm?usp=sharing](https://drive.google.com/drive/folders/1-97hxUIWpp49494IwiaEIoYsNaHfCTmm?usp=sharing)

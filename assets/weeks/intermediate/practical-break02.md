@@ -1,4 +1,4 @@
-# Practical Break: W02
+# Week 13 :Practical Break: W02
 
 **Task 01 (Flutter):**
 
@@ -13,6 +13,13 @@ Please, feel free to ask any time about any detail on Discord ( general / get-he
 ---
 
 **Task 02 (Dart: OOP):**
+
+
+**SOLID Principles**
+
+- https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV
+  
+
 
 One of the most popular systems in real-life applications is E-Commerce or E-Shopping Systems. The E-Commerce means the process of buying and selling online. Amazon, Noon, Ebay, … etc are all examples of E-Commerce apps. An e-commerce app is a very good example to practice on because it contains a lot of entities, properties & functions, and processes. The most basic e-commerce app must have entities like, Category, Product, Order, User, and many other entities. 
 

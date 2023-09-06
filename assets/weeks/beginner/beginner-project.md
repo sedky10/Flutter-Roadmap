@@ -5,15 +5,12 @@
 Choose one of the following games, search for its details, and create it as a CLI app:
 
 - Hangman
-- Tic-Tac-Toe
 
 **Task 2 (Presentation Needed):**
 
 Choose one of the following systems, search for more details, analyze it will and then set elements, relations between elements, and the main process in the system:
 
-- Bank Management System
-- Student Record Management System
-- Contact Management System
+  
 - Car Rental System
 - Sales Management System
 - Hotel Booking System

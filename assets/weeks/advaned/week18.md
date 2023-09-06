@@ -1,15 +1,11 @@
-# Week 18: Clean Code (W02) & SOLID Principles
+# Week 18: Responsive UI
 
 ## Content:
 
-**Clean Code: (#04 → #08)**
-
-- [https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
-
-**SOLID Principles**
-
-- [https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+- Responsive:
+    
+    [https://www.youtube.com/playlist?list=PLwWuxCLlF_ue_b0RZ_t6qjf_Nupkdq9BE](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue_b0RZ_t6qjf_Nupkdq9BE)
+    
 
 ## Tasks:
-
-> Presentation For explains All Topics in the content you understand.
+ old Tasks

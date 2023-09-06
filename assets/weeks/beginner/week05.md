@@ -1,22 +1,31 @@
-# Week 5: Flutter Basics, Images, & Layout Widgets
+# Week 5: OOP in Dart Part 2
 
 ## Content:
 
-- (Revision) Flutter Basics:
+- Dart Programming Language (1 to the 13):
     
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3](https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3)
+    [https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
     
-- Image widgets:
-    
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrc-H-GMWsNzCNeKAMg25ibs](https://youtube.com/playlist?list=PL3aG1K3LWCrc-H-GMWsNzCNeKAMg25ibs)
-    
-- Flutter Layout Widgets:
-    
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrdLjHDnCt4tuwZ6LIuxo1iG](https://youtube.com/playlist?list=PL3aG1K3LWCrdLjHDnCt4tuwZ6LIuxo1iG)
-    
+    Note: Video 11 (interface) is not important, so please watch them as useful knowledge but we may not focus on them on the tasks.
+
+
+ - Task Revision
+   - [https://www.youtube.com/watch?v=HJTrMvWBBWk&list=PLGCLD9LCH9Yh-cHJB-VH_Ajj5uG2L9RV5&index=6](https://www.youtube.com/watch?v=HJTrMvWBBWk&list=PLGCLD9LCH9Yh-cHJB-VH_Ajj5uG2L9RV5&index=6)
+   - [https://www.youtube.com/watch?v=v_VLfajzsoQ&list=PLGCLD9LCH9Yh-cHJB-VH_Ajj5uG2L9RV5&index=4&t=37s](https://www.youtube.com/watch?v=v_VLfajzsoQ&list=PLGCLD9LCH9Yh-cHJB-VH_Ajj5uG2L9RV5&index=4&t=37s)
+- Polymorphism
+  [https://www.youtube.com/watch?v=AFOkylzirIs&list=PLGCLD9LCH9Yh-cHJB-VH_Ajj5uG2L9RV5&index=5](https://www.youtube.com/watch?v=AFOkylzirIs&list=PLGCLD9LCH9Yh-cHJB-VH_Ajj5uG2L9RV5&index=5)
 
 ## Tasks:
 
-Please, create the following screen using the provided assets here:
+- Please, Prepare A Presentation About the Content and describe the 4 Principles of OOP
 
-- [https://drive.google.com/drive/folders/1N3nav2FJxi6opOYPR1lh0r9JHkRYLdDP?usp=sharing](https://drive.google.com/drive/folders/1N3nav2FJxi6opOYPR1lh0r9JHkRYLdDP?usp=sharing)
+ (Abstraction, Inheritance, encapsulation, and Polymorphism ):
+
+- Choose one of the following systems, search for more details, analyze it will and then set elements, relations between elements, and the main process in the system:
+
+  - Bank Management System
+  - Student Record Management System
+  - Contact Management System
+
+- search for its details, and create it as a CLI app:
+  - Tic Tac Toe

@@ -7,7 +7,8 @@
     [https://youtube.com/playlist?list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK](https://youtube.com/playlist?list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK)
     
     Note: Videos 54 to the end aren’t very important, so please watch them as useful knowledge but we may not focus on them on the tasks.
-    
+ - intro
+   - [https://youtu.be/JHj1fLHxZ68](https://youtu.be/JHj1fLHxZ68)
 
 ## Tasks:
 

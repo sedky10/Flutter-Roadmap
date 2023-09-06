@@ -1,24 +1,23 @@
-# Week 8: ListView, GridView, & Dialogs
+# Week 8: GitHub & UML Diagrams
 
 ## Content:
 
-- ListView & GridView:
+- Git & GitHub - first 12 videos from this playlist:
     
-    [https://www.youtube.com/playlist?list=PL3aG1K3LWCrfYbo432haiPHs1YNNoYOTd](https://www.youtube.com/playlist?list=PL3aG1K3LWCrfYbo432haiPHs1YNNoYOTd)
-    
-- Dialogs:
-    
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrfZoLFvPcVUEvAqPB3U9CBm](https://youtube.com/playlist?list=PL3aG1K3LWCrfZoLFvPcVUEvAqPB3U9CBm)
-    
+    [https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+
+- UML Diagrams:
+  [https://youtu.be/H_QtJWwvdGA?list=PLGCLD9LCH9Yi8leWyDNzK7h0N8RLTey1u](https://youtu.be/H_QtJWwvdGA?list=PLGCLD9LCH9Yi8leWyDNzK7h0N8RLTey1u)
+
 
 ## Tasks:
 
-Please, create the following screens using the provided assets for each one:
+#### Task 1:
 
-- Task 1:
-    
-    [https://drive.google.com/drive/folders/1JiCYdL7_iBDEcWBv1AvNXcXTCVHzuKb4?usp=sharing](https://drive.google.com/drive/folders/1JiCYdL7_iBDEcWBv1AvNXcXTCVHzuKb4?usp=sharing)
-    
-- Task 2:
-    
-    [https://drive.google.com/drive/folders/1-97hxUIWpp49494IwiaEIoYsNaHfCTmm?usp=sharing](https://drive.google.com/drive/folders/1-97hxUIWpp49494IwiaEIoYsNaHfCTmm?usp=sharing)
+Create new 2 public repositories on your GitHub and push the code of the first 2 tasks of the Beginner Level project. You will submit the link to these repositories.
+
+#### Task 2:
+
+ 
+
+Create a new UML Diagram of the second task of the Beginner Level project. You will submit the Solution as an Image in PDF.

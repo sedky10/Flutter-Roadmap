@@ -1,35 +1,26 @@
-# Week 19: Practical Break: Movies App.
+# Week 19: Animations
 
-We will work individually, to design, and implement a Movie App during this project. We will use the [IMDb Top 100 Movies](https://rapidapi.com/rapihub-rapihub-default/api/imdb-top-100-movies) API. To receive the poster and The trailer link in Your Application and all the film Details.
+## Content:
 
-- [Request example](https://drive.google.com/drive/folders/1SHWVUgSLo0XIVHX-eNqNbjyLmaJE8Jgj?usp=sharing) This video o for learning how To use this API.
+- Animations:
+    
+  - [https://youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua](https://youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
+  
+  - [https://www.youtube.com/playlist?list=PL93xoMrxRJItoTZJKda7TqmVoqS0WwADI](https://www.youtube.com/playlist?list=PL93xoMrxRJItoTZJKda7TqmVoqS0WwADI)
+    
 
-### Project Details.
+## Tasks:
 
-- Home Screen.
-- Splash Screen.
-- Movie Details Screen.
-- Favorite screen.
-- Profile Screen.
+Using the FlutterLogo, TweenAnimatedBuilder, Animated Container, and Hero Widgets please create the following animations:
 
-### Required Details.
+First task:
 
-- Dark Mode, Light Mode Button (App Theme).
-- Search Bar.
-- Trailer Video View in Movie Details Screen.
-- Login and Register Validation.
+[task1.mp4](../../../assets/videos/Week%2013%20Animations%20-%20%20Tasks/task1.mp4)
 
-     **notes**: Use Any Animation Tricks You Want but (**Simply**).
+Second Task:
 
-### SQLite (Database)
+[task2.mp4](../../../assets/videos//Week%2013%20Animations%20-%20%20Tasks/task2.mp4)
 
-- **Favorite Screen**: to Store Favorite Movies.
-- SQLite can handle the validation on **Login & register** Screens.
+Third Task:
 
-## To choose an appropriate UI design, there are a huge number of websites you can search on such as:
-
-- [https://www.freepik.com/](FreeBik)
-- [https://dribbble.com/](https://dribbble.com/)
-- [https://www.behance.net/](https://www.behance.net/)
-- [https://www.pinterest.com/](https://www.pinterest.com/)
-- And Of Course Google!
+[task3.mp4](../../../assets/videos/Week%2013%20Animations%20-%20%20Tasks/task3.mp4)
