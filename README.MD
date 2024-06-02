@@ -1,6 +1,6 @@
 # A Roadmap for developing mobile apps using Flutter
 ![Flutter Dash Character: we are very excited to have you on board!](assets/images/dash-flutter.jpg "Flutter Dash Character")
->This roadmap was created for the Flutter committee in IEEE Mansoura Computer Society Chapter by Omar Nabil Elmesiry, head of the committee. I hope you get the most benefit from it. Also, I would like to thank [Code2Start](https://www.youtube.com/@Code2Start) , [Omar Ahmed](https://www.youtube.com/@OmarAhmedx14) and [Wael Abu Hamza](https://www.youtube.com/@WaelabohamzaFlutter) channels very much for the amazing content provided that I built most of the roadmap on. Don't waste any time, let's get started!
+>This roadmap was created for the Flutter committee in IEEE Mansoura Computer Society Chapter by Omar Nabil Elmesiry & Upgraded by Mahmoud Sedky, heads of the committee. I hope you get the most benefit from it. Also, I would like to thank [Code2Start](https://www.youtube.com/@Code2Start) , [Omar Ahmed](https://www.youtube.com/@OmarAhmedx14) and [Wael Abu Hamza](https://www.youtube.com/@WaelabohamzaFlutter) channels very much for the amazing content provided that I built most of the roadmap on. Don't waste any time, let's get started!
 
 ## Objectives:
 
